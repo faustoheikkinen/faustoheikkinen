@@ -1,16 +1,24 @@
-## Hi there 👋
+# Fausto Heikkinen
 
-<!--
-**faustoheikkinen/faustoheikkinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems engineer focused on autonomous systems, AI infrastructure, and Rust development.
 
-Here are some ideas to get you started:
+## Current Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Containerized AI platforms
+- Autonomous terminal agents
+- Rust systems programming
+- Distributed AI runtimes
+
+## Projects
+
+- ZeroClaw container orchestration experiments
+- PILO runtime controller
+- Local AI infrastructure with Ollama
+
+## Technologies
+
+Rust • Docker • Linux • AI agents • Distributed systems
+
+---
+
+Open-source contributions and experimental systems welcome.
